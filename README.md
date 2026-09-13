@@ -1,5 +1,12 @@
 # 🍳 PantryChef (SuperCook Clone) — Production-Ready Full-Stack Recipe Finder
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-super--cook--zeta.vercel.app-brightgreen?style=for-the-badge&logo=vercel)](https://super-cook-zeta.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Frontend-Vercel-black?style=for-the-badge&logo=vercel)](https://super-cook-zeta.vercel.app/)
+[![Backend](https://img.shields.io/badge/Backend-Node.js_&_Express-green?style=for-the-badge&logo=node.js)](https://super-cook-zeta.vercel.app/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+> 🚀 **Live Public Website**: **[https://super-cook-zeta.vercel.app/](https://super-cook-zeta.vercel.app/)**
+
 A production-ready, full-stack recipe finder application with separate backend (`/server`) and frontend (`/client`) architectures, featuring an interactive pantry manager, smart recipe matching engine (Exact Match, Missing 1, Missing 2+), detailed modal with color-coded ingredients (green for owned, red for missing), and local favorites persistence.
 
 ---
