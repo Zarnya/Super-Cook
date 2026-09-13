@@ -354,6 +354,25 @@ app.delete('/api/favorites/:id', (req, res) => {
   }
 });
 
+/**
+ * GET /
+ * Root endpoint for status, Render service verification, and API discovery
+ */
+app.get('/', (req, res) => {
+  res.json({
+    message: 'SuperCook Recipe Finder API is running successfully!',
+    status: 'online',
+    version: '1.0.0',
+    endpoints: {
+      health: '/api/health',
+      ingredients: '/api/ingredients',
+      recipes: '/api/recipes',
+      search: 'POST /api/recipes/search',
+      favorites: '/api/favorites'
+    }
+  });
+});
+
 // Start Express Server
 app.listen(PORT, () => {
   console.log(`=========================================`);
