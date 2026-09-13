@@ -1,0 +1,19 @@
+{
+  "name": "supercook-server",
+  "version": "1.0.0",
+  "description": "Backend API for SuperCook Clone Recipe Finder",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node test-api.js"
+  },
+  "keywords": ["recipe-finder", "supercook", "express", "api"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

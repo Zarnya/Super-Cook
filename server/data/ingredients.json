@@ -1,0 +1,132 @@
+{
+  "categories": [
+    {
+      "id": "proteins",
+      "name": "Proteins",
+      "icon": "🍗",
+      "items": [
+        { "id": "chicken-breast", "name": "Chicken Breast", "icon": "🍗" },
+        { "id": "chicken-thighs", "name": "Chicken Thighs", "icon": "🍗" },
+        { "id": "ground-beef", "name": "Ground Beef", "icon": "🥩" },
+        { "id": "beef-steak", "name": "Beef Steak", "icon": "🥩" },
+        { "id": "eggs", "name": "Eggs", "icon": "🥚" },
+        { "id": "bacon", "name": "Bacon", "icon": "🥓" },
+        { "id": "salmon-fillet", "name": "Salmon Fillet", "icon": "🐟" },
+        { "id": "canned-tuna", "name": "Canned Tuna", "icon": "🐟" },
+        { "id": "shrimp", "name": "Shrimp", "icon": "🦐" },
+        { "id": "tofu", "name": "Tofu", "icon": "🧊" },
+        { "id": "black-beans", "name": "Black Beans", "icon": "🫘" },
+        { "id": "chickpeas", "name": "Chickpeas", "icon": "🫘" },
+        { "id": "pork-chops", "name": "Pork Chops", "icon": "🥩" },
+        { "id": "turkey", "name": "Ground Turkey", "icon": "🦃" }
+      ]
+    },
+    {
+      "id": "veggies",
+      "name": "Veggies",
+      "icon": "🥦",
+      "items": [
+        { "id": "onion", "name": "Onion", "icon": "🧅" },
+        { "id": "red-onion", "name": "Red Onion", "icon": "🧅" },
+        { "id": "garlic", "name": "Garlic", "icon": "🧄" },
+        { "id": "tomato", "name": "Tomato", "icon": "🍅" },
+        { "id": "cherry-tomatoes", "name": "Cherry Tomatoes", "icon": "🍅" },
+        { "id": "bell-pepper", "name": "Bell Pepper", "icon": "🫑" },
+        { "id": "spinach", "name": "Spinach", "icon": "🥬" },
+        { "id": "broccoli", "name": "Broccoli", "icon": "🥦" },
+        { "id": "carrots", "name": "Carrots", "icon": "🥕" },
+        { "id": "potatoes", "name": "Potatoes", "icon": "🥔" },
+        { "id": "mushrooms", "name": "Mushrooms", "icon": "🍄" },
+        { "id": "zucchini", "name": "Zucchini", "icon": "🥒" },
+        { "id": "cucumber", "name": "Cucumber", "icon": "🥒" },
+        { "id": "avocado", "name": "Avocado", "icon": "🥑" },
+        { "id": "green-onion", "name": "Green Onion", "icon": "🌱" },
+        { "id": "corn", "name": "Sweet Corn", "icon": "🌽" },
+        { "id": "jalapeno", "name": "Jalapeño", "icon": "🌶️" },
+        { "id": "ginger", "name": "Fresh Ginger", "icon": "🫚" },
+        { "id": "lemon", "name": "Lemon", "icon": "🍋" },
+        { "id": "lime", "name": "Lime", "icon": "🍋‍🟩" }
+      ]
+    },
+    {
+      "id": "dairy",
+      "name": "Dairy",
+      "icon": "🧀",
+      "items": [
+        { "id": "milk", "name": "Milk", "icon": "🥛" },
+        { "id": "butter", "name": "Butter", "icon": "🧈" },
+        { "id": "cheddar-cheese", "name": "Cheddar Cheese", "icon": "🧀" },
+        { "id": "mozzarella", "name": "Mozzarella", "icon": "🧀" },
+        { "id": "parmesan", "name": "Parmesan Cheese", "icon": "🧀" },
+        { "id": "heavy-cream", "name": "Heavy Cream", "icon": "🥛" },
+        { "id": "greek-yogurt", "name": "Greek Yogurt", "icon": "🥣" },
+        { "id": "cream-cheese", "name": "Cream Cheese", "icon": "🥯" },
+        { "id": "feta-cheese", "name": "Feta Cheese", "icon": "🧀" },
+        { "id": "sour-cream", "name": "Sour Cream", "icon": "🥣" }
+      ]
+    },
+    {
+      "id": "grains",
+      "name": "Grains",
+      "icon": "🌾",
+      "items": [
+        { "id": "white-rice", "name": "White Rice", "icon": "🍚" },
+        { "id": "brown-rice", "name": "Brown Rice", "icon": "🌾" },
+        { "id": "spaghetti", "name": "Spaghetti Pasta", "icon": "🍝" },
+        { "id": "penne", "name": "Penne Pasta", "icon": "🍝" },
+        { "id": "all-purpose-flour", "name": "All-Purpose Flour", "icon": "🌾" },
+        { "id": "rolled-oats", "name": "Rolled Oats", "icon": "🥣" },
+        { "id": "bread", "name": "Sliced Bread", "icon": "🍞" },
+        { "id": "tortillas", "name": "Flour Tortillas", "icon": "🫓" },
+        { "id": "quinoa", "name": "Quinoa", "icon": "🌾" },
+        { "id": "ramen-noodles", "name": "Ramen Noodles", "icon": "🍜" },
+        { "id": "breadcrumbs", "name": "Breadcrumbs", "icon": "🍞" }
+      ]
+    },
+    {
+      "id": "spices",
+      "name": "Spices",
+      "icon": "🧂",
+      "items": [
+        { "id": "salt", "name": "Salt", "icon": "🧂" },
+        { "id": "black-pepper", "name": "Black Pepper", "icon": "🧂" },
+        { "id": "cumin", "name": "Ground Cumin", "icon": "🌿" },
+        { "id": "paprika", "name": "Smoked Paprika", "icon": "🌶️" },
+        { "id": "chili-powder", "name": "Chili Powder", "icon": "🌶️" },
+        { "id": "crushed-red-pepper", "name": "Red Pepper Flakes", "icon": "🌶️" },
+        { "id": "dried-oregano", "name": "Dried Oregano", "icon": "🌿" },
+        { "id": "dried-basil", "name": "Dried Basil", "icon": "🌿" },
+        { "id": "cinnamon", "name": "Ground Cinnamon", "icon": "🪵" },
+        { "id": "garlic-powder", "name": "Garlic Powder", "icon": "🧄" },
+        { "id": "onion-powder", "name": "Onion Powder", "icon": "🧅" },
+        { "id": "italian-seasoning", "name": "Italian Seasoning", "icon": "🌿" },
+        { "id": "curry-powder", "name": "Curry Powder", "icon": "🍛" },
+        { "id": "fresh-cilantro", "name": "Fresh Cilantro", "icon": "🌿" },
+        { "id": "fresh-basil", "name": "Fresh Basil", "icon": "🌿" },
+        { "id": "fresh-parsley", "name": "Fresh Parsley", "icon": "🌿" }
+      ]
+    },
+    {
+      "id": "pantry-staples",
+      "name": "Pantry Staples",
+      "icon": "🫒",
+      "items": [
+        { "id": "olive-oil", "name": "Olive Oil", "icon": "🫒" },
+        { "id": "vegetable-oil", "name": "Vegetable Oil", "icon": "🌻" },
+        { "id": "sesame-oil", "name": "Sesame Oil", "icon": "🍶" },
+        { "id": "soy-sauce", "name": "Soy Sauce", "icon": "🥢" },
+        { "id": "honey", "name": "Honey", "icon": "🍯" },
+        { "id": "maple-syrup", "name": "Maple Syrup", "icon": "🍁" },
+        { "id": "mustard", "name": "Dijon Mustard", "icon": "🌭" },
+        { "id": "mayonnaise", "name": "Mayonnaise", "icon": "🥪" },
+        { "id": "tomato-paste", "name": "Tomato Paste", "icon": "🥫" },
+        { "id": "canned-crushed-tomatoes", "name": "Canned Crushed Tomatoes", "icon": "🥫" },
+        { "id": "chicken-broth", "name": "Chicken Broth", "icon": "🍲" },
+        { "id": "balsamic-vinegar", "name": "Balsamic Vinegar", "icon": "🍾" },
+        { "id": "apple-cider-vinegar", "name": "Apple Cider Vinegar", "icon": "🍎" },
+        { "id": "hot-sauce", "name": "Hot Sauce / Sriracha", "icon": "🔥" },
+        { "id": "peanut-butter", "name": "Peanut Butter", "icon": "🥜" }
+      ]
+    }
+  ]
+}
